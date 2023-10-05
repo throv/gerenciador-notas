@@ -1,0 +1,17 @@
+{
+  "name": "gerenciador-notas",
+  "version": "1.0.0",
+  "description": "aplicativo de criação, leitura, atualização e exclusão de notas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "thais vieira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
